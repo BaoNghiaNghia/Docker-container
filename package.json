@@ -1,0 +1,27 @@
+{
+  "name": "Docker-container",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node ./src/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/BaoNghiaNghia/Docker-container.git"
+  },
+  "keywords": [
+    "nodejs",
+    "bootstrap",
+    "express"
+  ],
+  "author": " <Bao Nghia> (example.com)",
+  "license": "baonghia",
+  "bugs": {
+    "url": "https://github.com/BaoNghiaNghia/Docker-container/issues"
+  },
+  "homepage": "https://github.com/BaoNghiaNghia/Docker-container#readme",
+  "devDependencies": {
+    "express": "^4.17.1"
+  }
+}
